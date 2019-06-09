@@ -21,7 +21,7 @@ The clustering identified 4 different types of user groups that are very relatab
 <br><br>
 ## Exploratory data analysis - Spending Habits
 Within each user group, we compare the difference in the average amount of money spent and number of items bought per year. We can also understand which user group is the major contributor to revenue in the company and how to increase the revenue pie. <br><br>
-The results show that Cash Cows and Decisives dominate the revenue pie (93.1%), spend the most money in buying many items from the app. The skewed results show that while the app has very good user loyalty amongst 46% of users, they might be struggling to diversify the revenue stream and attract more users onto the app. 
+The results show that Cash Cows and Decisives dominate the revenue pie (93.1%), spending the most money in buying many items from the app. The skewed results show that while the app has very good user loyalty amongst 46% of users, they might be struggling to diversify the revenue stream and attract more users onto the app. 
 <br><br> 24% of users in the "Uninterested" group hardly use the app again, and 30% of users in "Bargain Hunters" are only looking for cheap deals that do not bring much revenue for the company. It will be good to investigate further on how to move these users to more profitable groups and encourage them to spend more money.
 <br><br>
 ![EDA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Ponpare04_EDA.jpg)
