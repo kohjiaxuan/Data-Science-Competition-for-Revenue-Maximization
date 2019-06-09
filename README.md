@@ -39,11 +39,11 @@ After trying out MBA for individual products, we realized that it is too granula
 ![MBA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Ponpare01_MBA.jpg)
 <br><br>
 ## Solution: Changes to the application/website based on MBA
-For each user group, their product recommendations will be different as the MBA gives different results. For example, users who are Cash Cows that just purchased an expensive food product will receive recommendations of more expensive food products and also offers to upgrade their food to something more expensive. The effective of the recommendation bar will be monitored and adjusted accordingly based on the changing habits of the user.
+For each user group, their product recommendations will be different as the MBA gives different results. For example, users who are Cash Cows that just purchased an expensive food product will receive recommendations of more expensive food products and also offers to upgrade their food to something more expensive. The effectiveness of the recommendation bar will be monitored and adjusted accordingly based on the changing habits of the user.
 ![MBA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Upsell01.PNG)
 <br><br>
 ## Exploratory data analysis - Browsing Habits
-Users have different browsing and purchasing habits when looking at different categories of products. A graph of average number of views for a product category before purchase VS average price of a category of product was plotted. The log average price (x) is higher for expensive products, while the higher the log average view (y), the greater amount of times a user browses products of other categories before deciding to purchase a product.
+Users have different browsing and purchasing habits when looking at different categories of products. A graph of average number of views for a product category before purchase VS average price of a category of product was plotted. The log average price (x) is higher for expensive products, while the higher the log average view (y), the greater amount of times a user browses products of same categories before deciding to purchase a product (aka doing product comparison).
 <br><br>
 ![EDA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Views_vs_Purchase.png)
 <br><br>
