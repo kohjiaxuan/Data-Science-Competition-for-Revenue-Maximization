@@ -70,6 +70,6 @@ From the data, we realized that majority of product views (77%) do not lead to a
 
 <br><br>
 ## Credits:
-This project would not have been possible without my talented groupmates - Catherine, Orson and Rachel. I learned a lot from not just the project, but also all of you and it has made me more excited for working in the data industry!
+This project would not have been possible without my talented groupmates - Catherine, Orson and Rachel. This article is the brainchild of all of our ideas and is a summary of our discussions and final presentation. I learned a lot from not just the project, but also all of you and it has made me more excited for working in the data industry!
 <br><br>
 Dataset obtained from a Kaggle competition - https://www.kaggle.com/c/coupon-purchase-prediction
