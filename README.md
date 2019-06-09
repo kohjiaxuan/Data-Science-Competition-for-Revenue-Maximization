@@ -35,7 +35,7 @@ Within each user group, they have different preferences for the products to buy.
 <br><br>
 ## Model: Market Basket Analysis (MBA)
 After trying out MBA for individual products, we realized that it is too granular and there is no signficant two products that users like to buy together as their catalog of products are too diverse. On the other hand, doing MBA for products of different categories might be too general as there can be differences in products for a certain category. Hence, we decided to bin each product category into three - Low, Mid, High depending on the price range of the product before doing MBA.
-<br><br> The result is that we were able to understand consumer spending habits and give targetted recommendations of cross-selling (selling a related product of different category) and up-selling (selling the same category of product at a higher price) to users that have previously purchased items from the app.
+<br><br> The result is that we were able to understand consumer spending habits and give targeted recommendations of cross-selling (selling a related product of different category) and up-selling (selling the same category of product at a higher price) to users that have previously purchased items from the app.
 ![MBA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Ponpare01_MBA.jpg)
 <br><br>
 ## Solution: Changes to the application/website based on MBA
@@ -43,7 +43,7 @@ For each user group, their product recommendations will be different as the MBA 
 ![MBA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Upsell01.PNG)
 <br><br>
 ## Exploratory data analysis - Browsing Habits
-Users have different browsing and purchasing habits when looking at different categories of products. We plotted a graph of log of average number of views for a product category vs the log of average price of a category of product. The log average price (x) is higher for expensive products, while the higher the log average view (y), the greater amount of times a user browses products of other categories before deciding to purchase a product.
+Users have different browsing and purchasing habits when looking at different categories of products. A graph of average number of views for a product category before purchase VS average price of a category of product was plotted. The log average price (x) is higher for expensive products, while the higher the log average view (y), the greater amount of times a user browses products of other categories before deciding to purchase a product.
 <br><br>
 ![EDA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Views_vs_Purchase.png)
 <br><br>
