@@ -54,6 +54,10 @@ There are also some expensive products like private Lessons and Beauty services 
 ![EDA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Views_vs_Purchase03.png)
 <br><br>
 Finally, there are inexpensive products that users will purchase quickly and not browse through other products. This might stem from the fact that consumers are willing to part with their cash if its highly affordable, and the flash deals by the company attract consumers to quickly buy a product before it is sold out. It will be difficult to increase revenue from these high volume, low profit margin products, and hence the key is to entice users to find other expensive products they would enjoy when the flash deals are on.
+![EDA](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/bargainhunter.png)
+<br><br>
+Within each user group, we can analyse the time spent browsing a product using a histogram and Kernel density estimation (KDE) graph. For instance, the Bargain Hunters have a wide range of timings spent looking at a product. The KDE graph shows two peaks, as half of the product views tend to last an average of 7 minutes, while some products are very popular and users will revisit the product after a week (8 days). There are also varying time distributions for each user group. Hence, there is an inspiration to build a model based on the time spent viewing a product to get insights on how it changes the probability of purchase.
+<br><br>
 ## Model: Decision Tree to understand browsing habits of users
 ![Decision_Tree](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Ponpare02_DecisionTree.jpg)
 <br><br>
@@ -68,7 +72,6 @@ From the data, we realized that majority of product views (77%) do not lead to a
 
 ![Decision_Tree](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Browsing01.PNG)
 
-<br>
 ## Credits:
 This project would not have been possible without my talented groupmates - Catherine, Orson and Rachel. This article is the brainchild of all of our ideas and is a summary of our discussions and final presentation. I learned a lot from not just the project, but also all of you and it has made me more excited for working in the data industry!
 <br><br>
