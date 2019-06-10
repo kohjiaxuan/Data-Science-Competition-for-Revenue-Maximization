@@ -68,7 +68,7 @@ From the data, we realized that majority of product views (77%) do not lead to a
 
 ![Decision_Tree](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Browsing01.PNG)
 
-<br><br>
+<br>
 ## Credits:
 This project would not have been possible without my talented groupmates - Catherine, Orson and Rachel. This article is the brainchild of all of our ideas and is a summary of our discussions and final presentation. I learned a lot from not just the project, but also all of you and it has made me more excited for working in the data industry!
 <br><br>
