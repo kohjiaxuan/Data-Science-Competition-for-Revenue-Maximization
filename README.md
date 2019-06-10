@@ -6,7 +6,7 @@ Full slides is in <b>Summarized(15min)_Group3_Presentation.pdf</b>. I will provi
 <br><br>
 
 ## Customer Segmentation via k-means Clustering
-We identified two important features (time spent on the e-commerce app/website) and amount spent per customer that helps the company to split the users into 4 different groups. These groups will have different browsing and spending habits which can then be targeted differently by the data models.
+From the datasets, we had the datetime of customers entering the page and purchasing the products, along with the product category and product prices. After some data cleaning, feature engineering and data aggregation for each customer, we identified two important features - (1) time spent on the e-commerce app/website and (2) amount spent per customer that helps the company to cluster the users into 4 different groups. These groups will have different browsing and spending habits which can then be targeted differently by the data models.
 <br><br>
 ![Clustering](https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization/blob/master/Cluster01.PNG)
 <br><br>
